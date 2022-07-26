@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to Me
 
-<!--
-**gayan1991/gayan1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a certified azure developer, also a double major in Business & Information technology. I have a strong passion for programming, software designing, and databases and I am confident that my drive will be an asset to your firm.
+- I have understanding and capability of guiding juniors as well as leading the team to a better outcome. Having number of years’ experience have allowed me to grow myself to this kind of position where I do not hesitate to take over any responsibility.
 
-Here are some ideas to get you started:
+## “Do it good and do it right. If you don’t know the answer, tell you do not know the answer but don’t hesitate to find the answer cause that’s a guy who is willing to fight.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on IoT solution
+- 🌱 I’m currently learning Azure Kubernetes
+- 👯 I’m looking to collaborate on sollution development
+- 🤔 I’m looking for help with infrastructure
+- 💬 Ask me about .Net & C#
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love to play Sudoku
